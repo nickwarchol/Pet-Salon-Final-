@@ -1,0 +1,45 @@
+html{
+    background-color: #eee;
+}
+.contactForm{
+    display: table;
+    position: relative;
+    margin-left: 10px;
+}
+.messageBox{
+    height: 200px;
+    width: 500px;
+    background: #eee;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.submitButton{
+    color: white;
+    background-color: black;
+    width: 80px;
+    height:50px
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+main{
+    display: flex;
+    position: relative;
+    top: 100px;
+    right: 300px;
+    text-align: center;
+}
+.info-message{
+    width: 25rem;
+
+}
+main h1{
+    display: flex;
+    position: relative;
+    bottom: 75px;
+    left: 300px;
+}
+
